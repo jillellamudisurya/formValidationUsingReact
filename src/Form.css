@@ -1,0 +1,7 @@
+.global-container{
+    width: 500px;
+    text-align: center;
+}
+.errors{
+    color: red;
+}
